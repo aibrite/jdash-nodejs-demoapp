@@ -1,0 +1,24 @@
+{
+    "name": "jdash-nodejs-demoapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aibrite/jdash-nodejs-demoapp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aibrite/jdash-nodejs-demoapp/issues"
+    },
+    "homepage": "https://github.com/aibrite/jdash-nodejs-demoapp#readme",
+    "dependencies": {
+        "jdash-express": "^1.0.1",
+        "jdash-mongodb": "^1.0.1",
+        "jdash-ui": "^1.0.0"
+    }
+}
