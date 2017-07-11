@@ -18,7 +18,7 @@
     "homepage": "https://github.com/aibrite/jdash-nodejs-demoapp#readme",
     "dependencies": {
         "jdash-express": "^1.0.1",
-        "jdash-mongodb": "^1.0.1",
+        "jdash-mongodb": "^1.0.3",
         "jdash-ui": "^1.0.3"
     }
 }
